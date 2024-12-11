@@ -1,4 +1,4 @@
-## Hi there 👋
+Been working professionally as a software developer since 2015. It's about time I made one of these GitHub things.
 
 <!--
 **stapler343/stapler343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
